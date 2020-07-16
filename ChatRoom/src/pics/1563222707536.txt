@@ -1,0 +1,7 @@
+ASEDN_N_W10S6_V1.00
+
+[APInfo]
+WIMVer=V1.00
+BuildDate=2018/04/16
+
+
